@@ -1,1 +1,3 @@
-
+git add filename.py
+git commit -m "Unit 1 Basic Foundations.pdf"
+git push origin main
